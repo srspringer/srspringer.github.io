@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Scott Springer"
   avatar           : "profile.png"
-  bio              : "Research scientist with interests in numerical ocean models and ocean-cryosphere interactions"
+  bio              : "Physical oceanographer with interests in numerical circulation models and ocean-cryosphere interactions"
   location         : "Seattle, WA"
   employer         : "Earth and Space Research"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :   
   email            : "springer@esr.org"
+  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   researchgate     : "https://www.researchgate.net/profile/Scott_Springer"
   uri              :
   bitbucket        :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
