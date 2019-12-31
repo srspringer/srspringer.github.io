@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
-#  username               : &twitter
-#facebook:
-#  username               :
- # app_id                 :
-#  publisher              :
-#og_image                 :  # Open Graph/Twitter default site image
+twitter:
+  username               : &twitter
+  facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Research scientist with interests in numerical ocean models and ocean-cryosphere interactions"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "Earth and Space Research"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "springer@esr.org"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Scott_Springer"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
